@@ -1,0 +1,66 @@
+li { /*Title of my cool website*/
+    color: darkred;
+    font-size: 15px;
+    font-weight: 700;
+    font-style: oblique;
+    text-align: left;
+    background-color: lavender;
+}
+
+h1 { /*Title of my cool website*/
+    color: darkred;
+    font-size: 50px;
+    font-weight: 700;
+    font-style: oblique;
+    text-align: center;
+    background-color: lavender;
+} 
+
+h4 { /*first paragraph*/
+    color: hotpink;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    background-color: lightblue;
+}   
+
+.burger-facts{ 
+    color: indigo;
+    font-size: 15px;
+    font-weight: 300;
+    font-style: oblique;
+    text-align: center;
+    background-color: lightyellow;
+} 
+
+h5 { /*last paragraph on website*/
+    color: green;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    background-color: lightpink;
+}    
+
+h3 { 
+    color: royalblue;
+    font-size: 40px;
+    font-weight: 100;
+    font-style: italic;
+    text-align: center;
+    background-color: lightgreen;
+}
+
+body { /*mcdonalds logo bakgrund*/
+    background-image: url(https://charlottenbergsshopping.se/globalassets/thon-property-ab-se/center-oversikt/charlottenbergs-shoppingcenter/logos/mcdonalds-webb-logo.png);
+    background-size: 40px;
+    background-attachment: fixed;
+}
+
+img {
+    border-width: thick;
+    border-style: groove;
+    border-color: magenta;
+    border-radius: 5px;
+}
